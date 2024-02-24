@@ -30,7 +30,7 @@ Easy Anti-cheat:
     🟢 Fortnite
 
 
-## Download - [Click here](https://github.com/Netrix9999/Oracle-Spoofer/releases/download/hwidspoofer/OracleSpoofer.zip)
+
 
 
 *Enjoy!*
